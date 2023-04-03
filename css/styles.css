@@ -21,29 +21,33 @@ header {
 
 /* sezione main */
 
-/* titolo */
-h1 {
-    margin-top: 15px;
+span {
+    background-color: yellow;
 }
 
-.didascalia-titolo {
-    color: gray;
-}
+    /* titolo */
+    h1 {
+        margin-top: 15px;
+    }
 
-#data {
-    font-size: 12px;
-}
+    .didascalia-titolo {
+        color: gray;
+    }
 
-a {
-    text-decoration: none;
-    color: lightskyblue;
-}
+    #data {
+        font-size: 12px;
+    }
 
-/* immagini */
-figcaption {
-    font-size: 12px;
-}
+    a {
+        text-decoration: none;
+        color: lightskyblue;
+    }
 
-figure {
-    margin: 15px 0;
-}
+    /* immagini */
+    figcaption {
+        font-size: 12px;
+    }
+
+    figure {
+        margin: 15px 0;
+    }
