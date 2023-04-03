@@ -28,6 +28,7 @@ span {
     /* titolo */
     h1 {
         margin-top: 15px;
+        font-size: 45px;
     }
 
     .didascalia-titolo {
@@ -76,3 +77,31 @@ span {
         border-collapse: collapse;
         margin-bottom: 15px;
     }
+
+/* sezione footer */
+
+h4 {
+    margin: 20px 0px 5px 0px;
+    color: gray;
+}
+
+h3 {
+    color: white;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.collegamento1 {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.collegamento2 {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
