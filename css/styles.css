@@ -38,3 +38,12 @@ a {
     text-decoration: none;
     color: lightskyblue;
 }
+
+/* immagini */
+figcaption {
+    font-size: 12px;
+}
+
+figure {
+    margin: 15px 0;
+}
