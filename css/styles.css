@@ -56,3 +56,22 @@ span {
     ul {
         margin: 40px 20px;
     }
+
+    /* tabella */
+    thead {
+        color: white;
+        background-color: rgb(86, 166, 223);
+        text-align: left;
+    }
+
+    .riga-dispari {
+        background-color: lightblue;
+    }
+
+    .cella-piccola {
+        width: 250px;
+    }
+
+    table {
+        border-collapse: collapse;
+    }
