@@ -51,3 +51,8 @@ span {
     figure {
         margin: 15px 0;
     }
+
+    /* lista */
+    ul {
+        margin: 40px 20px;
+    }
